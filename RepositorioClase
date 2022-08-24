@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo HTML</title>
+</head>
+<body>
+    <!--Crear Titulos H1 mas menor H6 mas grande-->
+<h1>Titulo 1</h1>
+<h2>Titulo2</h2>
+<h3>Titulo3</h3>
+<h4>Titulo4</h4>
+<h5>Titulo5</h5>
+<h6>Titulo6</h6>
+<!-- el <br> hace un enter en el texto. y el <strong> pone negrilla -->
+<p>Lorem, <strong>Hola</strong> dolor sit amet consectetur, adipisicing elit. <br> Hic dignissimos dolorem perspiciatis iure nobis accusantium laboriosam exercitationem,voluptatem nemo tempora blanditiis, voluptates pariatur aspernatur, <br> earum itaque deserunt atquesuscipit porro!</p>
+<hr>
+
+<img src="img/hynjin.jpg"> <style>"width: 50%";</style>
+<img src="">
+<a href = "https://www.google.com/"  target="_blank"> Google </a>
+<hr>
+
+
+
+<ol>
+<li>Lista Ordenada 1</li>   
+<li>Lista Ordenada 2</li>  
+</ol>
+
+<ul>
+<li>Lista Ordenada 1</li>   
+<li>Lista Ordenada 2</li>  
+</ul>
+
+</body>
+</html>
+
